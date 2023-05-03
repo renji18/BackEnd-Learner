@@ -1,0 +1,17 @@
+.div1{
+  background: #000;
+  padding: 20px;
+}
+
+.p1{
+  background-color: aqua;
+  padding: 20px;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+  margin: 20px;
+}

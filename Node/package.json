@@ -1,0 +1,14 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "start": "nodemon handler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
